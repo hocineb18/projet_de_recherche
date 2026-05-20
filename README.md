@@ -49,7 +49,7 @@ Ces notebooks permettent de visualiser concrètement les résultats de nos méth
  
 ## Dataset Brexit
  
-> ⚠️ Le dataset n'est pas fourni dans ce dépôt pour des raisons de droits d'accès. Vous pouvez contacter les auteurs originaux pour y accéder.
+> IMPORTANT : Le dataset n'est pas fourni dans ce dépôt pour des raisons de droits d'accès. Vous pouvez contacter les auteurs originaux pour y accéder.
  
 Le dataset est issu de Twitter et couvre le **débat autour du Brexit du 2 au 21 juin 2016**. Il comprend trois composantes :
  
