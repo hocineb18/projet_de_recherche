@@ -38,7 +38,7 @@ Ces notebooks permettent de visualiser concrètement les résultats de nos méth
 | Notebook | Description |
 |---|---|
 | `comparaison_3algos_brexit.ipynb` | **Notebook principal** — Compare CD\_PPR, CD\_PSI et Louvain sur le dataset Brexit (données réelles, vérité terrain disponible) |
-| `psi_vs_ppr.ipynb` | Compare CD\_PSI et CD\_PPR sur des **graphes synthétiques contrôlés** par nous-mêmes, pour isoler l'effet du ψ-score |
+| `cd_psi_heterogene.ipynb` |  Compare CD\_PSI en régime homogène ($\lambda=\mu=1$) et hétérogène ($\lambda$, $\mu$ réels issus du dataset Brexit), afin d'évaluer l'impact des taux d'activité réels sur la détection de communautés|
 | `psi_score_analysis.ipynb` | Teste et explore la librairie [`psi-score`](https://github.com/NouamaneA/psi-score) de notre encadrant |
 | `brexit_psi_score.ipynb` | Application du CD\_PSI sur le dataset Brexit |
 | `graphes_pagerank_commus.ipynb` | Visualisation du PageRank sur des graphes avec communautés |
