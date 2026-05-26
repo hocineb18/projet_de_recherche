@@ -93,3 +93,4 @@ Pour le ψ-score, la librairie de référence est disponible ici : [https://gith
 - **Algorithme de Louvain** : Blondel, V. D., Guillaume, J.-L., Lambiotte, R., & Lefebvre, E. (2008). *Fast unfolding of communities in large networks.* Journal of Statistical Mechanics, P10008. https://doi.org/10.1088/1742-5468/2008/10/P10008
 
 - **PageRank** : Page, L., Brin, S., Motwani, R., & Winograd, T. (1999). *The PageRank Citation Ranking: Bringing Order to the Web.* Stanford InfoLab Technical Report.
+- **DataSet** : https://dl.acm.org/doi/10.1145/3511808.3557253
