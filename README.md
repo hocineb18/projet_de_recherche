@@ -27,9 +27,10 @@ Ces fichiers correspondent à notre phase d'exploration et de compréhension des
 | `pagerank_lina_ver.py` | Variante du PageRank, développée en parallèle pour vérification |
 | `calcul_ppr.py` | Calcul du Personalized PageRank (PPR) centré sur chaque nœud |
 | `detection_commu_ppr.py` | CD\_PPR — détection de communautés basée sur le PPR (version optimisée en temps de calcul) |
-| `community_detection_robust_avec_virtual_com...` | CD\_PPR avec gestion des *virtual communities* (chevauchements) |
+| `community_detection_robust_avec_virtual_community.py` | CD\_PPR avec gestion des *virtual communities* (chevauchements) |
 | `psi_algo_robust.py` | Calcul du ψ-score et algorithme CD\_PSI complet |
 | `louvain_cd.py` | Algorithme de Louvain (optimisation directe de la modularité), utilisé comme référence |
+| `data.py` | Fichier avec des fonctions essentielles pour l'Etude du Dataset Brexit |
  
 ### Fichiers Jupyter — Visualisation et validation
  
